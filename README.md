@@ -1,4 +1,9 @@
 # First Project
 
-This is my first project. I Love :Coffee:
+Shopping List
 
+Apple
+Oranges
+Bananas
+Cherries
+Carrots
