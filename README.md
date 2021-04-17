@@ -1,5 +1,3 @@
-# First Project
-
 Shopping List
 
 Apple
