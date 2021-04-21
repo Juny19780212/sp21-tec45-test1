@@ -1,9 +1,3 @@
-Shopping List
-
-Apple
-Oranges
-Bananas
-Cherries
-Carrots
-
-![Fruits] (Fruits.jpeg)
+# sp21-tec45-test1
+# sp21-tec45-test1
+# sp21-tec45-test1
