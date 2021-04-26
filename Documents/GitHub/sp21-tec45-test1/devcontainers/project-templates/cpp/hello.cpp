@@ -1,13 +1,16 @@
 #include <iostream>
 #include <vector>
 
+
 int
 main ()
 {
   std::vector<int> v;
-  for (int i : {5, 4, 3, 2, 1})
+  for (int i : {6, 4, 3, 2, 1})
+
   {
-    v.push_back (i);
+    if (i < 5)
+    ;
   }
 
   for (auto val : v)
@@ -16,5 +19,6 @@ main ()
   }
   std::cout << "\nHello, World!" << std::endl;
 
+printf ( "This is the one");
   return 0;
 }
